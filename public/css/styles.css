@@ -1,7 +1,7 @@
 body {
-    background-color: rgb(145, 116, 62);
+    background-color: rgb(145, 116, 62);  
 }
-block 
+
 .navbar {
     min-height: 80px;
     font-size: 150%;
@@ -14,6 +14,7 @@ block
     line-height: 80px;
     font-size: 150%;
     text-align: justify;
+    
   }
   
   .navbar-toggle {
